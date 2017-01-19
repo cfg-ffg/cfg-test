@@ -1,0 +1,2 @@
+1) Only "Replaced" Middle Text
+2) Only "***REMOVED***" Middle Text
